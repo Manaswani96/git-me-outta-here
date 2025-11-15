@@ -1,7 +1,7 @@
-# 2025-11-16
+# YYYY-MM-DD
 
 ## What I touched today 🧠
-- [ ] Coursework: 
+- [ ] Coursework:
 - [ ] Project / Research:
 - [ ] Skills:
 - [ ] Life:
