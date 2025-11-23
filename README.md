@@ -1,8 +1,5 @@
 # ✧･ﾟ: *✧･ﾟ:*  git-me-outta-here  *:･ﾟ✧*:･ﾟ✧  
 A small space where I drop tiny commits, chaotic experiments, mini scripts, and whatever my brain cooks at 2AM.
-![Status](https://img.shields.io/badge/chaos-active-purple)
-![Build](https://img.shields.io/badge/brain-booting-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 Not deep code.  
 Not secret research.  
