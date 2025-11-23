@@ -58,11 +58,11 @@ You *can* contribute — but with rules:
 
 ---
 
-## 🛡️ License  
+## License  
 MIT License — remix, fork, enjoy (with attribution).
 
 ---
 
-### 🧡 Final line  
+###  Final line  
 If you're here — welcome to my chaos.  
 Hope it sparks something fun in you too :)
