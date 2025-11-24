@@ -1,14 +1,19 @@
 # 💡 Idea Fragments
 
-## Quantum + AI (high-level)
-- Stability tricks
-- Alternative loss functions
-- Hybrid optimization
+Just a bunch of loose thoughts and themes I might explore someday:
 
-## Optimization thoughts
-- Convexity vs life
-- Why my gradients vanish (emotionally and mathematically)
-
-## Content seeds
-- “Building in public without revealing everything”
-- “How polymaths think”
+- Smarter ways to learn complex topics
+- Creative problem-solving tricks
+- Small experiments with algorithms and models
+- Mixing theory with real-world applications
+- Notes on productivity and focus
+- How curiosity shapes careers
+- Understanding systems (tech, people, decisions)
+- Turning mistakes into learning shortcuts
+- Simple approaches to hard problems
+- Building things step-by-step
+- Thinking across multiple fields
+- How to stay consistent without burnout
+- Mini projects for fun and growth
+- Notes on science, tech, and creativity
+- Observations about how we learn and improve
