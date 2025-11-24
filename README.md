@@ -16,7 +16,7 @@ Tech-comedy • Side-quest chaos • Soft productivity
 
 ---
 
-## 🧠 Things I Explore
+## Things I Explore
 I wander between:  
 **quantum • optimization • AI • Linux • physics • art • ideas • life**
 
@@ -33,7 +33,7 @@ Basically: if it exists, I’ll probably poke it.
 
 ---
 
-## ⚡ Why this repo exists
+## Why this repo exists
 To keep my GitHub alive, my creativity awake, and my commit streak green —  
 without the pressure of perfection.
 
@@ -42,7 +42,7 @@ A playground.
 A tiny productivity engine.
 
 ---
-## 🕰️ Activity Status
+## Activity Status
 
 I don’t push daily.
 I push when it counts.
@@ -50,7 +50,7 @@ I push when it counts.
 Expect spikes of chaos during exams and holidays.
 Silence in between is just strategy.
 
-## 🤝 Contributing (Chaos-Friendly Mode)
+## Contributing (Chaos-Friendly Mode)
 You *can* contribute — but with rules:
 
 - Don’t touch my main files (I guard them with love ❤️).  
