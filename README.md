@@ -24,7 +24,7 @@ Basically: if it exists, I’ll probably poke it.
 
 ---
 
-## 📂 What’s Inside
+##  What’s Inside
 - **/daily/** – tiny day logs, micro-updates  
 - **/fun/** – small scripts, ascii creatures, random experiments  
 - **/ideas.md** – high-level thoughts, concept sparks  
@@ -42,6 +42,13 @@ A playground.
 A tiny productivity engine.
 
 ---
+## 🕰️ Activity Status
+
+I don’t push daily.
+I push when it counts.
+
+Expect spikes of chaos during exams and holidays.
+Silence in between is just strategy.
 
 ## 🤝 Contributing (Chaos-Friendly Mode)
 You *can* contribute — but with rules:
